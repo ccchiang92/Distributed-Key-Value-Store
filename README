@@ -1,15 +1,3 @@
-# Distributed-Key-Value-Store
-This is a 5 man student project for UC Berkeley's CS162.
-The goal is to create a distributed key-value storage system that runs across multiple nodesImplement. Where clients can access data stored on many slave servers through a coordinator server. 
-This project was built with Java using test driven development principles. A test suit is written first with mock classes using Mockito, then the actual classes and methods were implemented
-My primary contributions involves client functions such as put and get, message parsing between clients and servers, slave server registration and key-value searches through slave servers.
-
-Student written code are found in the src and test folder.
-
-
-
-
-
 Copyright (c) 2014, University of California at Berkeley
 All rights reserved.
 Redistribution and use in source and binary forms, with or without
